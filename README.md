@@ -19,10 +19,10 @@ Florisboard
 [Key](Florisboard.png) 
 
 Voice Input  
-[Voi](Voice Input.png)  
+[Voi]("Voice Input.png")  
 
 IME Keyboard  
-[IME](IME Keyboard.png)
+[IME]("IME Keyboard.png")
 
 TTS  
 [Esp](Espeak.png)

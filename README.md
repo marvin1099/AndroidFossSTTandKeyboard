@@ -16,18 +16,18 @@ https://github.com/openboard-team/openboard
 
 # Screenshots
 Florisboard  
-./Florisboard.png  
+[Key](./Florisboard.png) 
 
 Voice Input  
-./Voice Input.png  
+[Voi](./Voice Input.png)  
 
 IME Keyboard  
-./IME Keyboard.png
+[IME](./IME Keyboard.png)
 
 TTS  
-./Espeak.png
-./Espeak Settings.png
+[Esp](./Espeak.png)
+[Ess](./Espeak Settings.png)
 
 Spell Checker  
-./Openboard.png
+[OB](./Openboard.png)
 

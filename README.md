@@ -15,4 +15,19 @@ Extra keyboard with spell checker (is not yet intigated into florisboard):
 https://github.com/openboard-team/openboard  
 
 # Screenshots
+Florisboard  
+./Florisboard.png  
+
+Voice Input  
+./Voice Input.png  
+
+IME Keyboard  
+./IME Keyboard.png
+
+TTS  
+./Espeak.png
+./Espeak Settings.png
+
+Spell Checker  
+./Openboard.png
 

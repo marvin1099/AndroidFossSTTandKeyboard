@@ -26,7 +26,7 @@ IME Keyboard
 
 TTS  
 ![Esp](Espeak.png)  
-TTS Settings (Darkq was used for dark settings page)
+TTS Settings (Darkq was used for dark settings page)  
 ![Ess](Espeak-Settings.png)
 
 Spell Checker  

@@ -14,7 +14,7 @@ IME keyboard:
 https://github.com/ElishaAz/Sayboard   
 TTS:  
 https://github.com/espeak-ng/espeak-ng  
-Extra keyboard with spell checker (is not yet intigated into florisboard, is still usefull with with florisboard, since it still marks words that are incorect):  
+Extra keyboard with spell checker (is not yet integrated into florisboard, is still usefull with with florisboard, since it still marks words that are incorect):  
 https://github.com/openboard-team/openboard  
 
 # Screenshots

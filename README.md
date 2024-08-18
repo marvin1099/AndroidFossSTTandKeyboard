@@ -1,6 +1,10 @@
 # AndroidFossSTTandKeyboard
 
-This is my Foss setup to replace Gboard, Google Voice input, Gboard IME (STT Keyboard), Google TTS, Gboard with spell checker (right now a extra keyboard is used here)
+This is my Foss setup to replace:
+Gboard, Google Voice input, Gboard IME (STT Keyboard), Google TTS, Gboard with spell checker.  
+Right now becaulse of the long dev cicle, I use HeliBoard becalse it also has a spellchecker,  
+also even if you use florisboard you can still use HeliBoard for spellchecking,  
+but it will only mark the words, not show any suggestions.
 
 Main Repo: https://codeberg.org/marvin1099/AndroidFossSTTandKeyboard  
 Backup Repo: https://github.com/marvin1099/AndroidFossSTTandKeyboard
@@ -15,13 +19,11 @@ https://github.com/ElishaAz/Sayboard
 TTS:  
 https://github.com/espeak-ng/espeak-ng  
 
-Extra keyboard with spell checker,  
-since is not yet integrated into florisboard,  
-is still usefull with with florisboard,  
+As mentioned right now i use HeliBoard,  
+since spellchecking is not yet integrated into florisboard,  
+is still usefull with with florisboard if you go that route,  
 since it still marks words that are incorect:  
 https://github.com/Helium314/HeliBoard  
-Right now i'm actually using HeliBoard becaulse  
-florisboard is taking a lot of time to add spellchecking  
 
 # Screenshots
 | Florisboard | Voice Input | IME Keyboard |

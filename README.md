@@ -30,4 +30,4 @@ florisboard is taking a lot of time to add spellchecking
 
 | TTS | TTS Settings (Darkq) | Spell Checker |
 |:---:|:--------------------:|:-------------:|
-| ![Esp](Espeak.png) | ![Ess](Espeak-Settings.png) | ![OB](Openboard.png) |
+| ![Esp](Espeak.png) | ![Ess](Espeak-Settings.png) | ![HB](HeliBoard.png) |

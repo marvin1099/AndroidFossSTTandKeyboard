@@ -24,20 +24,10 @@ Right now i'm actually using HeliBoard becaulse
 florisboard is taking a lot of time to add spellchecking  
 
 # Screenshots
-Florisboard  
-![Key](Florisboard.png) 
+| Florisboard | Voice Input | IME Keyboard |
+|:-----------:|:-----------:|:------------:|
+| ![Key](Florisboard.png) | ![Voi](Voice-Input.png) | ![IME](IME-Keyboard.png) |
 
-Voice Input  
-![Voi](Voice-Input.png)  
-
-IME Keyboard  
-![IME](IME-Keyboard.png)
-
-TTS  
-![Esp](Espeak.png)  
-TTS Settings (Darkq was used for dark settings page)  
-![Ess](Espeak-Settings.png)
-
-Spell Checker  
-![OB](Openboard.png)
-
+| TTS | TTS Settings (Darkq) | Spell Checker |
+|:---:|:--------------------:|:-------------:|
+| ![Esp](Espeak.png) | ![Ess](Espeak-Settings.png) | ![OB](Openboard.png) |
